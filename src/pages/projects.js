@@ -86,41 +86,41 @@ const projects = () => {
                                 link='https://creative-canvas-e8237.web.app/'
                                 type='Featured Project'
                                 img='https://i.ibb.co/fGbxz6s/fafd.png'
-                                githubLink='https://github.com/tanbin0001'
+                                githubLink='https://github.com/tanbin0001/creative-canvas-client-sever-'
                             />
                         </div>
                         <div className="col-span-6 sm:col-span-12">
                             <Project
-                                title='Creative Canvas'
-                                summary='HTML, CSS3, Tailwind, React, Express, Nodejs, MongoDb, Axios, React Query, Dev-tools, and GitHub.'
-                                link='https://creative-canvas-e8237.web.app/'
+                                title='Play Time Markets'
+                                summary='HTML, CSS3, Tailwind css, React, Express JS,MongoDB, Google-Firebase (Login System),Dev-tools, Vercel and GitHub'
+                                link='https://play-time-market.web.app/'
                                 type='Featured Project'
-                                img='https://i.ibb.co/fGbxz6s/fafd.png'
-                                githubLink='https://github.com/tanbin0001'
+                                img='https://i.ibb.co/hYpVkNn/playtime1-1.png'
+                                githubLink='https://github.com/tanbin0001/Play-time-market-client-and-server-code'
                             />
                         </div>
                         <div className="col-span-6 sm:col-span-12">
                             <Project
-                                title='Creative Canvas'
-                                summary='HTML, CSS3, Tailwind, React, Express, Nodejs, MongoDb, Axios, React Query, Dev-tools, and GitHub.'
-                                link='https://creative-canvas-e8237.web.app/'
+                                title='Deshi Khabar'
+                                summary=' HTML, CSS3, Tailwind, React, Node JS, Google-Firebase, Dev-tools, Vercel and GitHub.'
+                                link='https://deshi-khabar.web.app/'
                                 type='Featured Project'
-                                img='https://i.ibb.co/fGbxz6s/fafd.png'
-                                githubLink='https://github.com/tanbin0001'
+                                img='https://i.ibb.co/QF72TJt/deshikhabar-1.png'
+                                githubLink='https://github.com/tanbin0001/deshi-khabar-client-and-backend-code'
                             />
                         </div>
 
                         <div className="col-span-12">
                             <FeaturedProject
-                                title='Creative Canvas'
-                                summary='HTML, CSS3, Tailwind, React, Express, Nodejs, MongoDb, Axios, React Query, Dev-tools, and GitHub.'
-                                link='https://creative-canvas-e8237.web.app/'
+                                title='Nasheed Station'
+                                summary="It's an Angular Project. Currently working as an Front-end developer at Nasheed Station. "
+                                link='https://www.nasheedstation.com/'
                                 type='Featured Project'
-                                img='https://i.ibb.co/fGbxz6s/fafd.png'
+                                img='https://i.ibb.co/BjNcQtB/nasheedstation.png'
                                 githubLink='https://github.com/tanbin0001'
                             />
                         </div>
-
+{/* 
                         <div className="col-span-6 sm:col-span-12">
                             <Project
                                 title='Creative Canvas'
@@ -140,7 +140,7 @@ const projects = () => {
                                 img='https://i.ibb.co/fGbxz6s/fafd.png'
                                 githubLink='https://github.com/tanbin0001'
                             />
-                        </div>
+                        </div> */}
                     </div>
 
 

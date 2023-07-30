@@ -101,8 +101,8 @@ const articles = () => {
 
                             title='Learn about Fiverr'
                             summary='Learn new and hidden tricks about fiverr'
-                            time=' 9 min read'
-                            link='/'
+                            time=' 5 min read'
+                            link='https://www.linkedin.com/posts/ashrafuj-jaman_fiverr-freelancerevolution-gigeconomy-activity-7088923441919082496-u8B-?utm_source=share&utm_medium=member_desktop'
                             img='https://i.ibb.co/GFKTXxj/Purple-Pink-Modern-Programming-Webinar-Facebook-Post.png'
                         />
 
@@ -111,7 +111,7 @@ const articles = () => {
                             title='Ai Vs Human'
                             summary='Can Ai replace us?'
                             time=' 9 min read'
-                            link='/'
+                            link='https://www.linkedin.com/posts/ashrafuj-jaman_ai-collaboration-communication-activity-7083801954346278912-U105?utm_source=share&utm_medium=member_desktop'
                             img='https://i.ibb.co/CQMHs9D/1-ukea0-I3-YUSR17o-Zuc-MY03g.png'
                         />
 
@@ -121,22 +121,22 @@ const articles = () => {
                     </h2>
                     <ul>
                         <Article
-                            title='What Is Higher Order Component (Hoc) In React?'
-                            date='March 28,2023'
-                            link='/'
-                            img='https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components-diagram.jpg?ssl=1'
+                            title='🤞Top 6 AI languages to learn to code'
+                            date='June 15,2023'
+                            link='https://www.linkedin.com/posts/ashrafuj-jaman_ai-artificialintelligence-coding-activity-7086010991901126656-6Lf7?utm_source=share&utm_medium=member_desktop'
+                            img='https://media.licdn.com/dms/image/D4D22AQGolQ647HKeeg/feedshare-shrink_800/0/1689436813659?e=1693440000&v=beta&t=2TIHf0mKtFjRiICbfjIcakDMGhb1-WveC1WXpKcD3Cc'
                         />
                         <Article
-                            title='What Is Higher Order Component (Hoc) In React?'
-                            date='March 28,2023'
-                            link='/'
-                            img='https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components-diagram.jpg?ssl=1'
+                            title='5 Proven Strategies to Land Your Dream Job! 🎯'
+                            date='March 29,2023'
+                            link='https://www.linkedin.com/posts/ashrafuj-jaman_5-proven-strategies-to-land-your-dream-job-activity-7082417902611496960-Ztjx?utm_source=share&utm_medium=member_desktop'
+                            img=''
                         />
                         <Article
-                            title='What Is Higher Order Component (Hoc) In React?'
+                            title='Here are some best remote working tools'
                             date='March 28,2023'
-                            link='/'
-                            img='https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components-diagram.jpg?ssl=1'
+                            link='https://www.linkedin.com/posts/ashrafuj-jaman_5-best-remote-working-tools-activity-7078926204862406656-dFMh?utm_source=share&utm_medium=member_desktop'
+                            img=' '
                         />
                     </ul>
                 </Layout>
