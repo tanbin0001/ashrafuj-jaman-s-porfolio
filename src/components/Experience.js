@@ -39,7 +39,7 @@ const Experience = () => {
     )
     return (
         <div className="my-64">
-            <h2 className="font-bold text-5xl mb-32 w-full xs:text-3xl md:mb-16 text-center">&lt;/Experience&gt;</h2>
+            <h2 className="font-bold text-5xl mb-32 w-full sm:!text-4xl xs:!text-3xl md:mb-16 text-center">&lt;/Experience&gt;</h2>
 
             <div ref={ref} className="w-[75%] lg:w-[90%] md:w-full mx-auto relative">
                 <motion.div
