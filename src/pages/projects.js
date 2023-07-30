@@ -16,9 +16,9 @@ const FeaturedProject = ({ type, title, summary, img, link, githubLink }) => {
             <Link href={link} target='_blank'
                 className="w-1/2 lg:w-full cursor-pointer overflow-hidden rounded-lg"
             >
-                 <FramerImage 
-                whileHover={{scale:1.05}}
-                transition={{duration:0.2}} src={img} alt={title} className="w-full h-auto" />
+                <FramerImage
+                    whileHover={{ scale: 1.05 }}
+                    transition={{ duration: 0.2 }} src={img} alt={title} className="w-full h-auto" />
             </Link>
             <div className="w-1/2 lg:w-full lg:pl-0 lg:pt-6 flex flex-col items-start justify-between pl-6">
                 <span className="text-primary dark:text-primaryDark font-medium text-xl xs:text-base">{type}</span>
@@ -44,16 +44,16 @@ const Project = ({ type, title, summary, img, link, githubLink }) => {
             <Link href={link} target='_blank'
                 className="w-full cursor-pointer overflow-hidden rounded-lg"
             >
-                 <FramerImage 
-                whileHover={{scale:1.05}}
-                transition={{duration:0.2}} src={img} alt={title} className="w-full h-auto" />
+                <FramerImage
+                    whileHover={{ scale: 1.05 }}
+                    transition={{ duration: 0.2 }} src={img} alt={title} className="w-full h-auto" />
             </Link>
             <div className="w-full flex flex-col items-start justify-between mt-4">
                 <span className="text-primary dark:text-primaryDark font-medium text-xl lg:text-lg mg:text-base">{type}</span>
                 <Link href={link} target='_blank ' className="hover:underline underline-offset-2">
                     <h2 className="my-2 w-full text-left text-3xl font-bold lg:text-2xl">{title}</h2>
                 </Link>
-                <p className="my-2 font-medium text-dark dark:text-light sm:text-sm">{summary}</p>
+                <p className="my-2 font-medium text-dark dark:text-light sm:text-sm"><span className="font-bold">Used Technologies:</span> {summary}</p>
                 <div className="mt-2 flex items-center  justify-between w-full">
                     <Link href={link} target='_blank'
                         className=" text-lg md:text-base font-semibold underline"
@@ -73,7 +73,7 @@ const projects = () => {
             <Head>
                 <title>Ashrafuj Jaman | Projects</title>
             </Head>
-            <TransitionEffect/>
+            <TransitionEffect />
             <main className="w-full mb-16 flex flex-col items-center justify-center">
                 <Layout className="pt-16   ">
                     <AnimatedText className="!text-5xl sm:mb-8 sm:!text-4xl xs:!text-3xl  mb-16" text='&lt;/Projects&gt;' />
@@ -120,7 +120,7 @@ const projects = () => {
                                 githubLink='https://github.com/tanbin0001'
                             />
                         </div>
-{/* 
+                        {/* 
                         <div className="col-span-6 sm:col-span-12">
                             <Project
                                 title='Creative Canvas'
